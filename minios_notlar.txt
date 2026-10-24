@@ -1,3 +1,0 @@
-unutma cücük 
-#!/bin/bash 
-yazmayı unutma

@@ -1,0 +1,12 @@
+Package: mini-os
+Version: 1.4
+Architecture: all
+Maintainer: kutukefe899
+Depends: bash, python
+Filename: debs/mini-os_1.0_all.deb
+Size: 16904
+MD5sum: bd6341ff33c8115eb3a91a204b951670
+SHA1: 5073f25b049998bfba92b57cd321b113579dc889
+SHA256: 6aa3582924a13679a5a6c672357a343a42303859436e32022ac24c3ee435ea50
+Description: Mini OS v1.4 fix loop
+

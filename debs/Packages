@@ -1,12 +1,12 @@
 Package: mini-os
-Version: 1.0
+Version: 1.1
 Architecture: all
 Maintainer: kutukefe899
 Depends: bash, python
 Filename: debs/mini-os_1.0_all.deb
-Size: 43680
-MD5sum: bc1d29c47b8410289ab63cb6b0d20767
-SHA1: d79b799bbfe35e1f827a4a0f5145269e5c2d6bc8
-SHA256: c9fa51ab0b9be2f25ec6c08e03b1ed0eea86c9bc322e3366745cab2bcefb10f1
-Description: Mini OS - Tum dosyalar
+Size: 16880
+MD5sum: c7e36873a9b867a8de06f41f17ac3c54
+SHA1: c253817ddb71edee30dd9a161719aa08d72ac5bf
+SHA256: 29649bf6d3a98c141f29bef7687dbe7c9c16d375e5682dbcc593e9dff0895727
+Description: Mini OS Full - komple klasor
 

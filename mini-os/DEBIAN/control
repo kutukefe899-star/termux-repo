@@ -2,5 +2,5 @@ Package: mini-os
 Version: 1.0
 Architecture: all
 Maintainer: kutukefe899
-Description: Terminal Mini OS
-Depends: bash, curl
+Description: Mini OS - Tum dosyalar
+Depends: bash
